@@ -1,0 +1,1 @@
+# Lexcrop_Management_Studio
